@@ -1,7 +1,7 @@
 .grid{
     display:grid;
-    grid-template-columns:2fr 4fr;
-    grid: 20px;
+    grid-template-columns:2fr 2fr;
+    grid: 100px;
 }
 header{
     grid-column: 1/2;
@@ -16,7 +16,7 @@ article{
 }
 footer{
     grid-column: 2/1;
-    grid-row: 1;
+    grid-row: ;
 }
 .grid div{
     border: 1px solid rgb(0, 95, 107);  
