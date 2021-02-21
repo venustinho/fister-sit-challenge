@@ -1,0 +1,21 @@
+p
+{
+    color:darkblue
+}
+/*les titre 1 et les balise strong que se trouve dans ces titre seront marque a rouge*/
+h1,strong
+{
+    color:red;
+}
+h2,em, strong
+{
+    color:blue
+}
+ol
+{
+    color:red;
+}
+ul
+{
+    color:rgb(26, 102, 19);
+}
